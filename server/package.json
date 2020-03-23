@@ -28,7 +28,7 @@
     "path": "^0.12.7",
     "supertest": "^4.0.2",
     "validator": "^12.2.0",
-    "yargs": "^14.0.0"
+    "yargs": "^15.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
